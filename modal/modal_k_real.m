@@ -1,7 +1,5 @@
 clear all
 close all
-clc
-
 
 set(0,'defaultAxesTickLabelInterpreter','latex');
 set(0,'defaulttextinterpreter','latex');
@@ -26,7 +24,6 @@ a = 1;
 b = 0.2;
 L = 1; 
 l2 = L;
-
 
 % incident wave
 %k = 2.18;
